@@ -22,3 +22,10 @@ Effective defense against phishing requires a dual approach:
 - Academic studies on browser security indicators.
 - Research in cognitive psychology and digital trust.
 - Real-world phishing case studies.
+## Analysis of Password Data
+
+### Distribution of Password Lengths
+![Password Lengths](visuals/password_lengths.png)
+
+### Password Strength Classification
+![Password Strength](visuals/password_strength.png)
